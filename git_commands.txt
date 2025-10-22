@@ -3,3 +3,8 @@ git status
 git add testing.py
 git rm --cached testing.py -- removed from staged.
 git commit -m "Add testing file"
+git push -- push the files from local to Github repo.
+git push origin master -- push files to master branch
+git remote -v -- to chech our url of repo
+git remote add origin <url> -- to get our repo from Github
+git remote set-url origin <url> -- to change our settings to push code in master instead of main
