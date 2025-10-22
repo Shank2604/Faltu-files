@@ -11,3 +11,9 @@ git remote set-url origin <url> -- to change our settings to push code in master
 git clone <url> -- to get anyones full repo on your local editor 
 
 Pull cmd checking.
+
+git pull origin  master -- to get changed code from github to local.
+
+git branch -- to list current and all branches.
+git branch <name> -- to create new branch
+git switch <name> -- to swotch from one branch to another
