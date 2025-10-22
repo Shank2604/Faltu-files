@@ -17,3 +17,5 @@ git pull origin  master -- to get changed code from github to local.
 git branch -- to list current and all branches.
 git branch <name> -- to create new branch
 git switch <name> -- to swotch from one branch to another
+
+git fetch -- to get all branches from remote to local
