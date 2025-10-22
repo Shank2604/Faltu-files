@@ -1,0 +1,5 @@
+git init
+git status
+git add testing.py
+git rm --cached testing.py -- removed from staged.
+git commit -m "Add testing file"
