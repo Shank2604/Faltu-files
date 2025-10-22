@@ -8,3 +8,4 @@ git push origin master -- push files to master branch
 git remote -v -- to chech our url of repo
 git remote add origin <url> -- to get our repo from Github
 git remote set-url origin <url> -- to change our settings to push code in master instead of main
+git clone <url> -- to get anyones full repo on your local editor 
